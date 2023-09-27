@@ -24,6 +24,8 @@ https://chrome.google.com/webstore/detail/incognito-proxy/odkbcffeaickjalieahlne
 
 Link to bug: https://bugzilla.mozilla.org/show_bug.cgi?id=1526299
 
+FoxyProxy plans to implement this feature using a different API: https://github.com/foxyproxy/browser-extension/issues/33
+
 ## Screenshot
 
 ![Screenshot](misc/screenshot1.png)
